@@ -4,8 +4,7 @@ This paper introduces a Raspberry Pi-based language translation system using the
 
 Detailed youtube Video explanation of how this works: https://youtu.be/FadNcNHQBHY?feature=shared
 
-IEEE format Report of the project is attached as Report.pdf for complete overview of project. https://github.com/Barathj121/Language_Translation/blob/main/report.pdf
-
+IEEE format Report of the project is attached as Report.pdf for complete overview of project.
 
 
 Before starting the project kindly install all the libraries given below
